@@ -1,0 +1,47 @@
+tr {
+    background-color: rgb(12, 11, 11);
+    color: azure;
+    text-transform: uppercase;
+    border-color: rgb(6, 6, 7);
+    border-radius: 50px;
+    
+
+}
+
+.second {
+    background-color: rgb(6, 7, 6);
+    color: azure;
+    text-transform: uppercase;
+    position: fixed;
+    background-attachment: fixed;
+    border-radius: 10px;
+    
+}
+.ten {
+text-transform: uppercase;
+color: black;
+text-align: center;
+text-decoration:underline;
+font-size: xx-large;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: lighter;
+font-style: italic;
+}
+.third {
+    width: ;
+    height: auto;
+    background-color: blue;
+    border: 20px solid blue;
+}
+tr {
+
+    border-color: black;
+    border-radius: 50px;
+    background-color: black;
+}
+.one {
+
+    border-color: black;
+    background-color: black;
+    border-radius: 20px;
+}

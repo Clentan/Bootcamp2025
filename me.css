@@ -1,0 +1,36 @@
+p{
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    border-color: black;
+    background-color: black;
+    font-size: xx-large;
+    color: aliceblue;
+    text-transform: uppercase;
+}
+.second {
+    background-color: rgb(6, 7, 6);
+    color: azure;
+    text-transform: uppercase;
+    position: fixed;
+    background-attachment: fixed;
+    border-radius: 10px;
+    
+}
+.yes{
+    text-align: center;
+    width: 100;
+    height: 100;
+    border-color: black;
+    font-style: italic;
+    color: rgb(225, 225, 220);
+    text-transform: uppercase;
+    background-color:black
+}
+.twotow{
+margin-left: 86px;
+
+}
+.twotwo{
+    margin-left: 77px;
+}
