@@ -38,16 +38,16 @@
         <div id="error_message"></div>
         <form action="https://formspree.io/f/xkndkpnz" method="post" id="myform" onsubmit="return validate();">
           <div class="input_field">
-              <input type="text" placeholder="Name" id="name">
+              <input type="text" placeholder="Name" id="name" required>
           </div>
           <div class="input_field">
-              <input type="text" placeholder="Phone" name="phone">
+              <input type="text" placeholder="Phone" name="phone" required>
           </div>
           <div class="input_field">
-              <input type="text" placeholder="Email" name="email">
+              <input type="text" placeholder="Email" name="email" required>
           </div>
           <div class="input_field">
-              <textarea placeholder="Message" name="message"></textarea>
+              <textarea placeholder="Message" name="message" required></textarea>
           </div>
           <div class="btn">
               <input type="submit">
