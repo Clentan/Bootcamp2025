@@ -1,4 +1,3 @@
-
 var today = new Date(); //Creat a new date object
 var hourNow = today.getHours(); // find the current time
 var greeting;
