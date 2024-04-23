@@ -4,16 +4,17 @@ var greeting;
 
 //dispaly greeting suitable for the current time
 if (hourNow > 18)
-{greeting = 'Good Evening';}
+{greeting = 'Good Evening';
+}
 else if (hourNow > 12)
 {
     greeting = 'Good afternoon';
 }
-else if (hourNow >o)
+else if (hourNow > 0)
 {
     greeting = 'Good Morning'
 }
 else {
-    greeting='Welcome'
+    greeting = 'Welcome';
 }
 document.write(greeting);
